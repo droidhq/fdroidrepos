@@ -1,0 +1,317 @@
+[
+  {
+    "Repo": "F-Droid",
+    "urlprefix": "",
+    "URL": "f-droid.org",
+    "urldata": "repo/",
+    "FingerPrint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB",
+    "Details": "The official F-Droid Free Software repository. Everything in this repository is always built from the source code.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "F-Droid Archive",
+    "urlprefix": "",
+    "URL": "f-droid.org",
+    "urldata": "archive/",
+    "FingerPrint": "43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB",
+    "Details": "The archive of the official F-Droid Free Software repository. Apps here are old and can contain known vulnerabilities and security issues!",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "IzzyOnDroid",
+    "urlprefix": "",
+    "URL": "apt.izzysoft.de/fdroid",
+    "urldata": "repo/",
+    "FingerPrint": "3BF0D6ABFEAE2F401707B6D966BE743BF0EEE49C2561B9BA39073711F628937A",
+    "Details": "This is the F-Droid Repository by IzzyOnDroid",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Guardian Project",
+    "urlprefix": "",
+    "URL": "guardianproject.info/fdroid",
+    "urldata": "repo/",
+    "FingerPrint": "B7C2EEFD8DAC7806AF67DFCD92EB18126BC08312A7F2D6F3862E46013C7A6135",
+    "Details": "Guardian Project Official App Repository",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "NewPipe",
+    "urlprefix": "archive.",
+    "URL": "newpipe.net",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "E2402C78F9B97C6C89E97DB914A2751FDA1D02FE2039CC0897A462BDB57E7501",
+    "Details": "This is the official NewPipe F-Droid repository.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Collabora Office",
+    "urlprefix": "",
+    "URL": "collaboraoffice.com",
+    "urldata": "downloads/fdroid/repo/",
+    "FingerPrint": "573258C84E149B5F4D9299E7434B2B69A8410372921D4AE586BA91EC767892CC",
+    "Details": "Official Repository for Collabora Office. An Text editor, Spreadsheet & Presentation program based on Open Source LibreOffice suite.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "KDE Android",
+    "urlprefix": "cdn.",
+    "URL": "kde.org",
+    "urldata": "android/fdroid/repo/",
+    "FingerPrint": "B3EBE10AFA6C5C400379B34473E843D686C61AE6AD33F423C98AF903F056523F",
+    "Details": "Official repository by KDE containing nightly test versions of their android applications.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Calyx OS Repo",
+    "urlprefix": "",
+    "URL": "calyxos.gitlab.io/calyx-fdroid-repo",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "C44D58B4547DE5096138CB0B34A1CC99DAB3B4274412ED753FCCBFC11DC1B7B6",
+    "Details": "This is a copy of the Calyx Institute F-Droid repository for test purposes. It is a repository of apps to be used with CalyxOS.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "DivestOS",
+    "urlprefix": "",
+    "URL": "divestos.org",
+    "urldata": "fdroid/official/",
+    "FingerPrint": "E4BE8D6ABFA4D9D4FEEF03CDDA7FF62A73FD64B75566F6DD4E5E577550BE8467",
+    "Details": "This repository contains apps developed or maintained by Divested Computing Group.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Umbrella",
+    "urlprefix": "",
+    "URL": "secfirst.org",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "39EB57052F8D684514176819D1645F6A0A7BD943DBC31AB101949006AC0BC228",
+    "Details": "Official repository for Security First’s flagship Umbrella app which gives you free digital and physical security advice when you need it most.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Bitwarden",
+    "urlprefix": "mobileapp.",
+    "URL": "bitwarden.com",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "BC54EA6FD1CD5175BCCCC47C561C5726E1C3ED7E686B6DB4B18BAC843A3EFE6C",
+    "Details": "Official repository for Bitwarden an secure and free password manager for all of your devices.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Wind Project",
+    "urlprefix": "guardianproject-wind.",
+    "URL": "s3.amazonaws.com",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "182CF464D219D340DA443C62155198E399FEC1BC4379309B775DD9FC97ED97E1",
+    "Details": "Repository contains collection of apps that work offline or with limited internet functionality.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Chromite",
+    "urlprefix": "",
+    "URL": "cromite.org",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "49F37E74DEE483DCA2B991334FB5A0200787430D0B5F9A783DD5F13695E9517B",
+    "Details": "Chromite Browser,Bromite fork with ad blocking and privacy enhancements; take back your browser!",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Cryptomator",
+    "urlprefix": "static.",
+    "URL": "cryptomator.org",
+    "urldata": "android/fdroid/",
+    "FingerPrint": "F7C3EC3B0D588D3CB52983E9EB1A7421C93D4339A286398E71D7B651E8D8ECDD",
+    "Details": "Cryptomator F-Droid Repo",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "DivestOS Unofficial",
+    "urlprefix": "",
+    "URL": "divestos.org",
+    "urldata": "fdroid/unofficial/",
+    "FingerPrint": "A18CDB92F40EBFBBF778A54FD12DBD74D90F1490CB9EF2CC6C7E682DD556855D",
+    "Details": "This repository contains unofficial builds of open source apps that are not included in the official F-Droid repo or IzzySoft repo.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "KDE Stables",
+    "urlprefix": "cdn.",
+    "URL": "kde.org",
+    "urldata": "android/stable-releases/fdroid/repo/",
+    "FingerPrint": "B3EBE10AFA6C5C400379B34473E843D686C61AE6AD33F423C98AF903F056523F",
+    "Details": "Official repository by KDE containing unofficial builds of their android applications.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Briar",
+    "urlprefix": "",
+    "URL": "briarproject.org/fdroid",
+    "urldata": "repo",
+    "FingerPrint": "/1FB874BEE7276D28ECB2C9B06E8A122EC4BCB4008161436CE474C257CBF49BD6",
+    "Details": "Official repository for Briar an messenger app that does not require any server and hides metadata.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Session - Signal Based",
+    "urlprefix": "",
+    "URL": "fdroid.getsession.org",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "DB0E5297EB65CC22D6BD93C869943BDCFCB6A07DC69A48A0DD8C7BA698EC04E6",
+    "Details": "This is the Official Session F-Droid repo for Session Android Messenger",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "TwinHelix - Signal Fork",
+    "urlprefix": "",
+    "URL": "fdroid.twinhelix.com",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "7B03B0232209B21B10A30A63897D3C6BCA4F58FE29BC3477E8E3D8CF8E304028",
+    "Details": "TwinHelix F-Droid Repository, used for Signal-FOSS, an open-source fork of Signal Private Messenger.",
+    "PreSaved": "!"
+  },
+  {
+    "Repo": "FluffyChat Nightly",
+    "urlprefix": "",
+    "URL": "fluffychat.im",
+    "urldata": "repo/nightly/repo/",
+    "FingerPrint": "21A469657300576478B623DF99D8EB889A80BCD939ACA60A4074741BEAEC397D",
+    "Details": "FluffyChat is an open source, nonprofit and cute [matrix] client written in Flutter",
+    "PreSaved": null
+  },
+  {
+    "Repo": "FluffyChat",
+    "urlprefix": "",
+    "URL": "fluffychat.im",
+    "urldata": "repo/stable/repo/",
+    "FingerPrint": "21A469657300576478B623DF99D8EB889A80BCD939ACA60A4074741BEAEC397D",
+    "Details": "Nightly builds of FluffyChat",
+    "PreSaved": null
+  },
+  {
+    "Repo": "Molly - Signal Fork",
+    "urlprefix": "",
+    "URL": "molly.im",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "3B7E93B1FE32C6E35A93D6DDFC5AFBEB1239A7C6EA6AF20FF33ED53CDC38B04A",
+    "Details": "The official Molly repository for F-Droid, that mirrors the latest releases.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Molly FOSS - Signal Fork",
+    "urlprefix": "",
+    "URL": "molly.im",
+    "urldata": "fdroid/foss/repo/",
+    "FingerPrint": "5198DAEF37FC23C14D5EE32305B2AF45787BD7DF2034DE33AD302BDB3446DF74",
+    "Details": "The official Molly-FOSS repository for F-Droid.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "SchildiChat",
+    "urlprefix": "",
+    "URL": "s2.spiritcroc.de",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "6612ade7e93174a589cf5ba26ed3ab28231a789640546c8f30375ef045bc9242",
+    "Details": "SchildiChat for Android is a Matrix Client based on Element Android.",
+    "PreSaved": null
+  },
+  {
+    "Repo": "Simplex Chat",
+    "urlprefix": "app.",
+    "URL": "simplex.chat",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "9F358FF284D1F71656A2BFAF0E005DEAE6AA14143720E089F11FF2DDCFEB01BA",
+    "Details": "SimpleX Chat official F-Droid repository.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "MicroG",
+    "urlprefix": "",
+    "URL": "microg.org/fdroid",
+    "urldata": "repo/",
+    "FingerPrint": "9BD06727E62796C0130EB6DAB39B73157451582CBD138E86C468ACC395D14165",
+    "Details": "The official repositories providing apps from the microG Project.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Monerujo",
+    "urlprefix": "f-droid.",
+    "URL": "monerujo.io",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "A82C68E14AF0AA6A2EC20E6B272EFF25E5A038F3F65884316E0F5E0D91E7B713",
+    "Details": "Official repository for Monerujo",
+    "PreSaved": null
+  },
+  {
+    "Repo": "Netsyms Technologies",
+    "urlprefix": "repo.",
+    "URL": "netsyms.com",
+    "urldata": "/fdroid/repo/",
+    "FingerPrint": "2581BA7B32D3AB443180C4087CAB6A7E8FB258D3A6E98870ECB3C675E4D64489",
+    "Details": "Official repository by Netsyms, an application catalogue to access their apps without Play store.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Patched Applications (Langis)",
+    "urlprefix": "",
+    "URL": "thecapslock.gitlab.io/fdroid-patched-apps",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "313D9E6E789FF4E8E2D687AAE31EEF576050003ED67963301821AC6D3763E3AC",
+    "Details": "Original applications, modified for many purpose as better compatibility, better privacy. Read app description for more info.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "NanoDroid",
+    "urlprefix": "",
+    "URL": "nanolx.org/fdroid",
+    "urldata": "repo/",
+    "FingerPrint": "862ED9F13A3981432BF86FE93D14596B381D75BE83A1D616E2D44A12654AD015",
+    "Details": "NanoDroid companion F-Droid repository.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "Julian's F-Droid Repo",
+    "urlprefix": "",
+    "URL": "julianfairfax.gitlab.io/fdroid-repo",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "83ABB548CAA6F311CE3591DDCA466B65213FD0541352502702B1908F0C84206D",
+    "Details": "",
+    "PreSaved": null
+  },
+  {
+    "Repo": "Frostnerd (Nebulo)",
+    "urlprefix": "fdroid.",
+    "URL": "frostnerd.com",
+    "urldata": "fdroid/repo/",
+    "FingerPrint": "74BB580F263EC89E15C207298DEC861B5069517550FE0F1D852F16FA611D2D26",
+    "Details": "Official repository for Nebulo an DNS changer app which implements DNS-over-HTTPs and DNS-over-TLS.",
+    "PreSaved": null
+  },
+  {
+    "Repo": "Kali NetHunter App Store",
+    "urlprefix": "store.",
+    "URL": "nethunter.com",
+    "urldata": "/repo/",
+    "FingerPrint": "7E418D34C3AD4F3C37D7E6B0FACE13332364459C862134EB099A3BDA2CCF4494",
+    "Details": "This is the official Kali NetHunter App Store. Applications in this repository are official binaries built by the original application developers.",
+    "PreSaved": "1"
+  },
+  {
+    "Repo": "c:geo Nightly",
+    "urlprefix": "fdroid.",
+    "URL": "cgeo.org",
+    "urldata": "nightly/",
+    "FingerPrint": "370BB4D550C391D5DCCB6C81FD82FDA4892964764E085A09B7E075E9BAD5ED98",
+    "Details": "Official repository for c:geo nightly builds.",
+    "PreSaved": null
+  },
+  {
+    "Repo": "c:geo",
+    "urlprefix": "fdroid.",
+    "URL": "cgeo.org",
+    "urldata": "",
+    "FingerPrint": "370BB4D550C391D5DCCB6C81FD82FDA4892964764E085A09B7E075E9BAD5ED98",
+    "Details": "Official repository for c:geo stable builds. An open-source, full-featured, always ready-to-go Geocaching application.",
+    "PreSaved": null
+  }
+]
